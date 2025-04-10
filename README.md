@@ -1,4 +1,4 @@
- 🎨 Advanced Image Filters Playground
+ 🎨 Advanced Image Filters Playground-by Abhyam
 
 A stylish and interactive Streamlit application that allows users to upload images and apply a wide range of advanced image processing filters using OpenCV and NumPy. Designed with a beautiful gradient background and flip-style cards for a sleek, modern look.
 
